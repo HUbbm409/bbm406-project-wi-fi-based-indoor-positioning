@@ -1,5 +1,8 @@
 # bbm406-project-wi-fi-based-indoor-positioning
 
+
+[![video](https://i.ibb.co/nnHqHf8/b.png)](https://www.youtube.com/watch?v=Zqu3Pz22TZ0)
+
 presentation video: https://www.youtube.com/watch?v=Zqu3Pz22TZ0
 
 ### references
